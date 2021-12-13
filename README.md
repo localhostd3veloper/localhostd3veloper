@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/localhostd3veloper/localhostd3veloper/blob/main/about.gif" alt="Here is a little bit about me!">
+
 <!--
 **localhostd3veloper/localhostd3veloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
