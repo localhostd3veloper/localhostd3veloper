@@ -1,4 +1,4 @@
-<img src="https://github.com/localhostd3veloper/localhostd3veloper/blob/main/about.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/localhostd3veloper/localhostd3veloper/blob/main/about-me.gif" alt="Here is a little bit about me!">
 
 ## Hi there 👋
 
