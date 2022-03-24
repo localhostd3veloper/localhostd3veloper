@@ -5,7 +5,7 @@
 I am Gautam Anand, currently pursuing my Bachelor's Degree in Computer Science from [GITS Udaipur](https://gits.ac.in). I am a tech enthusiast & a MERN Stack Developer Intern at [Botosynthesis](https://botosynthesis.ai). Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gautam%20Anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/localhostdeveloper/)](https://www.linkedin.com/in/localhostdeveloper/)
-[![Instagram Badge](https://img.shields.io/badge/-localhostdeveloper-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/localhostdeveloper/)](https://instagram.com/localhostdeveloper)
+[![Instagram Badge](https://img.shields.io/badge/-localhostdeveloper-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/localhostdeveloper/)](https://instagram.com/oyeegautamm)
 [![Gmail Badge](https://img.shields.io/badge/-gautamanand022@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gautamanand022@gmail.com)](mailto:gautamanand022@gmail.com)
 
 ## ⚡ Technologies
