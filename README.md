@@ -1,8 +1,7 @@
 <img src='./banner.png' style="width:100%;"/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r3nffy23lhvqffxj6qmbyxpiea&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-## Greetings, fellow tech voyagers and Valorant champions! 🚀🎮
+# Greetings, fellow tech voyagers and Valorant champions! 🚀🎮
 
 - Welcome to my GitHub playground where I blend the art of `Full-Stack MERN` engineering with the adrenaline-fueled world of Valorant!
 - **By day**, I'm crafting cutting-edge web applications with `JavaScript`, `Typescript`, `React`, and adding that extra flair with `TailwindCSS`.
@@ -23,6 +22,8 @@
 ## What's Cooking? 🍳
 
 Currently, I'm hustling in the freelance world, juggling projects while sharpening my skills in Data Structures and Algorithms (DSA). I firmly believe in the power of continuous learning and pushing boundaries, both in coding and in gaming!
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r3nffy23lhvqffxj6qmbyxpiea&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Let's Forge Alliances! ⚔️
 
