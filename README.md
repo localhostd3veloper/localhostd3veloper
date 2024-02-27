@@ -27,7 +27,7 @@ Currently, I'm hustling in the freelance world, juggling projects while sharpeni
 
 ## Let's Forge Alliances! ⚔️
 
-- LinkedIn: [Gautam Anand](https://www.linkedin.com/in/yourusername)
+- LinkedIn: [Gautam Anand](https://www.linkedin.com/in/gautam-anand16)
 - Discord: [localhostdeveloper](https://discordapp.com/users/454654067239682049)
 - Email: [work.gautam16@gmail.com](mailto:work.gautam16@gmail.com)
 
