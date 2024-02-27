@@ -23,7 +23,7 @@
 
 Currently, I'm hustling in the freelance world, juggling projects while sharpening my skills in Data Structures and Algorithms (DSA). I firmly believe in the power of continuous learning and pushing boundaries, both in coding and in gaming!
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r3nffy23lhvqffxj6qmbyxpiea&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r3nffy23lhvqffxj6qmbyxpiea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Let's Forge Alliances! ⚔️
 
