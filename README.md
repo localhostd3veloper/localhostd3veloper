@@ -31,7 +31,7 @@ Currently, I'm hustling in the freelance world, juggling projects while sharpeni
 - Discord: [localhostdeveloper](https://discordapp.com/users/454654067239682049)
 - Email: [work.gautam16@gmail.com](mailto:work.gautam16@gmail.com)
 
-Drop me a line if you're up for a coding project, want to [team up](https://teams.gg/share/rekon) for a Valorant showdown, or just want to share some guitar tabs! Let's make magic happen! 🚀🎸🎮
+**Drop me a line if you're up for a coding project, want to [team up](https://teams.gg/share/rekon) for a Valorant showdown, or just want to share some guitar tabs! Let's make magic happen! 🚀🎸🎮**
 
 <p align="center">
 <img src="https://myreadme.vercel.app/api/embed/localhostd3veloper?panels=userstatistics,toplanguages" alt="reimaginedreadme" />
