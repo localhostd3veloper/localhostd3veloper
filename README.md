@@ -41,3 +41,4 @@ Currently, I'm hustling in the freelance world, juggling projects while sharpeni
 </p>
 
 ## Thank you for reading! 🙏
+<img src='./phoenix.gif' style="width:100%;"/>
