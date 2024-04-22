@@ -1,9 +1,9 @@
-<img src='./banner.png' style="width:100%;"/>
+<img src='./giphy.gif' style="width:100%;"/>
 
 
 # Greetings, fellow tech voyagers and Valorant champions! 🚀🎮
 
-- Welcome to my GitHub playground where I blend the art of `Full-Stack MERN` engineering with the adrenaline-fueled world of Valorant!
+- Welcome to my `GitHub` playground where I blend the art of `Full-Stack MERN` engineering with the adrenaline-fueled world of Valorant!
 - **By day**, I'm crafting cutting-edge web applications with `JavaScript`, `Typescript`, `React`, and adding that extra flair with `TailwindCSS`.
 - But when the **sun sets**, you'll find me diving headfirst into the competitive realm of `Valorant`, `strategizing` and `fragging` my way to victory!
 
