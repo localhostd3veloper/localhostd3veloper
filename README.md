@@ -34,7 +34,7 @@ Currently, I'm hustling in the freelance world, juggling projects while sharpeni
 **Drop me a line if you're up for a coding project, want to [team up](https://teams.gg/share/rekon) for a Valorant showdown, or just want to share some guitar tabs! Let's make magic happen! 🚀🎸🎮**
 
 <p align="center">
-<img src="https://myreadme.vercel.app/api/embed/localhostd3veloper?panels=userstatistics,toplanguages" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/localhostd3veloper?panels=userstatistics,toplanguages" alt="readme-reimagine" />
 </p>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=localhostd3veloper&label=Profile%20views&color=0e75b6&style=flat" alt="localhostd3veloper" />
