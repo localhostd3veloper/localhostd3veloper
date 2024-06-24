@@ -1,10 +1,11 @@
-<img src='./giphy.gif' style="width:100%;"/>
-
+<p align="center">
+  <img src="./iso.gif" style="border-radius: 10px !important; width: 90%;">
+</p>
 
 # Greetings, fellow tech voyagers and Valorant champions! 🚀🎮
 
 - Welcome to my `GitHub` playground where I blend the art of `Full-Stack MERN` engineering with the adrenaline-fueled world of Valorant!
-- **By day**, I'm crafting cutting-edge web applications with `JavaScript`, `Typescript`, `React`, and adding that extra flair with `TailwindCSS`.
+- **By day**, I'm crafting cutting-edge web applications with `JavaScript`, `Typescript`, and `React`, and adding that extra flair with `TailwindCSS`.
 - But when the **sun sets**, you'll find me diving headfirst into the competitive realm of `Valorant`, `strategizing` and `fragging` my way to victory!
 
 ## Who am I? 🤔
@@ -21,7 +22,7 @@
 
 ## What's Cooking? 🍳
 
-Currently, I'm hustling in the freelance world, juggling projects while sharpening my skills in Data Structures and Algorithms (DSA). I firmly believe in the power of continuous learning and pushing boundaries, both in coding and in gaming!
+Currently, I'm hustling in the freelance world, juggling projects while sharpening my skills in `Data Structures and Algorithms (DSA)`, `NextJS` and `NestJS`. I firmly believe in the power of continuous learning and pushing boundaries, both in coding and gaming!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31r3nffy23lhvqffxj6qmbyxpiea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
