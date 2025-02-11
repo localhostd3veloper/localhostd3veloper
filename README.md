@@ -22,7 +22,7 @@
 
 ## What's Cooking? 🍳
 
-Currently, I'm hustling in the freelance world, juggling projects while sharpening my skills in `Data Structures and Algorithms (DSA)`, `NextJS` and `NestJS`. I firmly believe in the power of continuous learning and pushing boundaries, both in coding and gaming!
+I am a Full-Stack Lead in a cyber-security startup incubated in IIT Kanpur.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com//api/view?uid=31r3nffy23lhvqffxj6qmbyxpiea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
