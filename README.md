@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./iso.gif" style="border-radius: 10px !important; width: 90%;">
+  <img src="./background.gif" style="border-radius: 10px !important; width: 90%;">
 </p>
 
 # Greetings, fellow tech voyagers and Valorant champions! 🚀🎮
