@@ -43,7 +43,8 @@ I am a Full-Stack Engineer in an Australian Based AI Startup: [Turium AI](https:
 <img src="https://komarev.com/ghpvc/?username=localhostd3veloper&label=Profile%20views&color=0e75b6&style=flat" alt="localhostd3veloper" />
 </p>  
 
-![](https://github-profile-trophy.vercel.app/?username=localhostd3veloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=localhostd3veloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+[![An image of @localhostd3veloper's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/localhostd3veloper)](https://holopin.io/@localhostd3veloper)
 
 ## Thank you for reading! 🙏  
 <img src='./phoenix.gif' style="width:100%;"/>  
