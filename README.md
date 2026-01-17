@@ -27,7 +27,7 @@
 
 ## What's Cooking? 🍳  
 
-I am a Full-Stack Engineer in an Australian Based AI Startup: [Turium AI](https://turium.ai)
+I am a Lead Engineer at [Oraczen AI](https://www.oraczen.ai)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com//api/view?uid=31r3nffy23lhvqffxj6qmbyxpiea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
 
