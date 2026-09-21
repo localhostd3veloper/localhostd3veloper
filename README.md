@@ -10,6 +10,8 @@
   <a href="mailto:work.gautam16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://discordapp.com/users/454654067239682049"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord" /></a>
   <a href="https://teams.gg/share/rekon"><img src="https://img.shields.io/badge/Valorant-FF4655?style=flat-square&logo=valorant&logoColor=white" alt="valorant" /></a>
+  <a href="https://localhostdeveloper.com"><img src="https://img.shields.io/badge/Website-0B0D12?style=flat-square&logo=vercel&logoColor=white" alt="website" /></a>
+  <a href="https://dev.to/localhostd3veloper"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
 </p>
 
 ## whoami
@@ -30,16 +32,24 @@ Off the clock: Valorant, a guitar, and a camera I use less than I should.
 | **Also reach for** | Python, FastAPI, Bun, Redux, Tailwind |
 | **Ships on** | AWS, Vercel, Firebase, GitHub Actions |
 
-## github
+## building
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=localhostd3veloper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhostd3veloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
+[**breeze**](https://github.com/localhostd3veloper/breeze) — full-stack AI chat app on
+Next.js 16 and FastAPI. Streaming responses, web search, vision, extended thinking, and it
+runs against local Ollama models.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=localhostd3veloper&theme=tokyo-night&hide_border=true&area=true&color=7aa2f7&line=bb9af7&point=c0caf5" width="98%" alt="activity graph" />
-</p>
+[**faultline.ai**](https://github.com/localhostd3veloper/faultline.ai) — reads your
+OpenAPI specs, architecture diagrams and docs, then flags production-readiness problems
+before they ship.
+
+[**code-portfolio**](https://github.com/localhostd3veloper/code-portfolio) — my portfolio
+site, built to look and behave like the editor I spend all day in.
+
+[**r3ckon-style**](https://github.com/localhostd3veloper/r3ckon-style) — six Claude Code
+skills that make an agent write code and prose the way I do.
+
+[**notion-replication**](https://github.com/localhostd3veloper/notion-replication) —
+Notion task page clone, drag and drop included.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/localhostd3veloper/localhostd3veloper/output/snake-dark.svg" />
