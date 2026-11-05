@@ -16,41 +16,35 @@
 
 ## whoami
 
-MERN engineer, and I do a lot of it. React and TypeScript on the front end, Node and
-Express behind it, Mongo underneath, FastAPI on the services that need Python. Currently
-leading engineering at Oraczen AI, where most of that work lives in private repos.
+Most of my work at Oraczen AI lives in private repos, so this page is the stuff I build on
+my own time.
 
-I optimise for clean architecture and short feedback loops, in that order.
+I write TypeScript nearly every day: React on the front end, Node and Express on the
+server, MongoDB for storage. Services that need Python get FastAPI. I also reach for Bun,
+Redux and Tailwind, and I deploy to AWS, Vercel and Firebase with GitHub Actions.
 
-Off the clock: Valorant, a guitar, and a camera I use less than I should.
-
-## stack
-
-| | |
-|---|---|
-| **Day to day** | TypeScript, React, Node, Express, MongoDB |
-| **Also reach for** | Python, FastAPI, Bun, Redux, Tailwind |
-| **Ships on** | AWS, Vercel, Firebase, GitHub Actions |
+Away from the keyboard I play Valorant and guitar. I also own a camera I don't use enough.
 
 ## building
 
-[**drift-ui**](https://drift-ui.dev) — a shadcn-compatible registry of the 48 components
-shadcn/ui leaves out: tags input, stepper, tree view, file dropzone and the rest. React 19,
-Tailwind v4, Radix or Base UI, installed with the shadcn CLI.
-[Source](https://github.com/localhostd3veloper/drift-ui).
+[**drift-ui**](https://drift-ui.dev) is a component registry for the pieces shadcn/ui
+doesn't ship, like a tags input, stepper, tree view and file dropzone. You install them
+with the shadcn CLI. Built on React 19 and Tailwind v4, with Radix or Base UI underneath.
+([source](https://github.com/localhostd3veloper/drift-ui))
 
-[**breeze**](https://github.com/localhostd3veloper/breeze) — full-stack AI chat app on
-Next.js 16 and FastAPI. Streaming responses, web search, vision, extended thinking, and it
-runs against local Ollama models.
+[**breeze**](https://github.com/localhostd3veloper/breeze) is a chat app on Next.js 16 and
+FastAPI that talks to local Ollama models. It streams responses and handles web search,
+image input and extended thinking. ([live](https://breeze.localhostdeveloper.com/chat))
 
-[**faultline.ai**](https://github.com/localhostd3veloper/faultline.ai) — reads your
-OpenAPI specs, architecture diagrams and docs, then flags production-readiness problems
-before they ship.
+[**faultline.ai**](https://github.com/localhostd3veloper/faultline.ai) reads OpenAPI specs,
+architecture diagrams and Markdown docs, then gives you a production-readiness score and a
+ranked list of what to fix. Rule-based checks run first and an LLM turns their findings into
+the report.
 
-[**code-portfolio**](https://github.com/localhostd3veloper/code-portfolio) — my portfolio
-site, built to look and behave like the editor I spend all day in.
+[**code-portfolio**](https://github.com/localhostd3veloper/code-portfolio) is my portfolio
+site, laid out like VS Code. ([live](https://the-vscode-guy.vercel.app))
 
-[**r3ckon-style**](https://github.com/localhostd3veloper/r3ckon-style) — six Claude Code
+[**r3ckon-style**](https://github.com/localhostd3veloper/r3ckon-style) is six Claude Code
 skills that make an agent write code and prose the way I do.
 
 <picture>
