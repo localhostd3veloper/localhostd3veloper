@@ -34,6 +34,11 @@ Off the clock: Valorant, a guitar, and a camera I use less than I should.
 
 ## building
 
+[**drift-ui**](https://drift-ui.dev) — a shadcn-compatible registry of the 48 components
+shadcn/ui leaves out: tags input, stepper, tree view, file dropzone and the rest. React 19,
+Tailwind v4, Radix or Base UI, installed with the shadcn CLI.
+[Source](https://github.com/localhostd3veloper/drift-ui).
+
 [**breeze**](https://github.com/localhostd3veloper/breeze) — full-stack AI chat app on
 Next.js 16 and FastAPI. Streaming responses, web search, vision, extended thinking, and it
 runs against local Ollama models.
@@ -47,9 +52,6 @@ site, built to look and behave like the editor I spend all day in.
 
 [**r3ckon-style**](https://github.com/localhostd3veloper/r3ckon-style) — six Claude Code
 skills that make an agent write code and prose the way I do.
-
-[**notion-replication**](https://github.com/localhostd3veloper/notion-replication) —
-Notion task page clone, drag and drop included.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/localhostd3veloper/localhostd3veloper/output/snake-dark.svg" />
